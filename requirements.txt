@@ -5,3 +5,12 @@ pre-commit==3.3
 pytest==7.3
 pytest-cov==4.0
 ruff==0.0.269
+
+numpy==1.25.1
+opencv-python==4.8.0.74
+pyzmq==25.1.0
+Pillow==10.0.0
+pyaudio==0.2.13
+pydub==0.25.1
+pytesseract==0.3.10
+rich==13.5.2
